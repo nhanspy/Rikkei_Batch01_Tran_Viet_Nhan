@@ -1,0 +1,11 @@
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang1', 'sach1', 34);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang1', 'dochoi2', 2);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang1', 'dungcu1', 4);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang2', 'sach1', 23);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang2', 'sach2', 2);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang2', 'dochoi4', 56);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang3', 'dochoi2', 34);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang3', 'sach4', 23);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang4', 'sach5', 23);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang5', 'dungcu5', 21);
+INSERT INTO ql_sp_nhasachnhanam.chitietdonhang (MaDonHang, MaSanPham, SoLuong) VALUES ('donhang6', 'dochoi6', 21);

@@ -1,0 +1,6 @@
+INSERT INTO ql_sp_nhasachnhanam.donhang (MaDonHang, MaKhachHang, MaNhanVien, NgayMuaHang, TongTien) VALUES ('donhang1', 'khachhang1', 'nhanvien1', '2019-08-03', 3000000);
+INSERT INTO ql_sp_nhasachnhanam.donhang (MaDonHang, MaKhachHang, MaNhanVien, NgayMuaHang, TongTien) VALUES ('donhang2', 'khachhang2', 'nhanvien2', '2019-07-03', 10000);
+INSERT INTO ql_sp_nhasachnhanam.donhang (MaDonHang, MaKhachHang, MaNhanVien, NgayMuaHang, TongTien) VALUES ('donhang3', 'khachhang3', 'nhanvien5', '2020-08-03', 1400110);
+INSERT INTO ql_sp_nhasachnhanam.donhang (MaDonHang, MaKhachHang, MaNhanVien, NgayMuaHang, TongTien) VALUES ('donhang4', 'khachhang4', 'nhanvien1', '2020-08-03', 1000);
+INSERT INTO ql_sp_nhasachnhanam.donhang (MaDonHang, MaKhachHang, MaNhanVien, NgayMuaHang, TongTien) VALUES ('donhang5', 'khachhang5', 'nhanvien2', '2020-08-03', 1000000);
+INSERT INTO ql_sp_nhasachnhanam.donhang (MaDonHang, MaKhachHang, MaNhanVien, NgayMuaHang, TongTien) VALUES ('donhang6', 'khachhang2', 'nhanvien2', '2020-08-03', 1000000);

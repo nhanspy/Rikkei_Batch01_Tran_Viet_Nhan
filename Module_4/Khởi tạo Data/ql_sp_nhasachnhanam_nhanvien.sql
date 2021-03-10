@@ -1,0 +1,5 @@
+INSERT INTO ql_sp_nhasachnhanam.nhanvien (MaNhanVien, TenNhanVien, NgaySinh, ViTri, SoDienThoai, Email, DiaChi) VALUES ('nhanvien1', 'Nguyễn Văn Hồng', '1999-01-01', 'Sale', '098765432', 'vanhong@rtep.com', 'Da Nang');
+INSERT INTO ql_sp_nhasachnhanam.nhanvien (MaNhanVien, TenNhanVien, NgaySinh, ViTri, SoDienThoai, Email, DiaChi) VALUES ('nhanvien2', 'Nguyễn Văn Hậu', '1999-03-03', 'Sale', '09324t342', 'vanhau@rtep.com', 'Da Nang');
+INSERT INTO ql_sp_nhasachnhanam.nhanvien (MaNhanVien, TenNhanVien, NgaySinh, ViTri, SoDienThoai, Email, DiaChi) VALUES ('nhanvien3', 'Nguyễn Thị Kiều Trang', '1999-04-04', 'Quét dọn', '094234511', 'kieutrang@rtep.com', 'Quảng Bình');
+INSERT INTO ql_sp_nhasachnhanam.nhanvien (MaNhanVien, TenNhanVien, NgaySinh, ViTri, SoDienThoai, Email, DiaChi) VALUES ('nhanvien4', 'Nguyễn Tuấn Mạnh', '1999-05-05', 'Quét dọn', '094234511', 'tuanmanh@rtep.com', 'Quảng Nam');
+INSERT INTO ql_sp_nhasachnhanam.nhanvien (MaNhanVien, TenNhanVien, NgaySinh, ViTri, SoDienThoai, Email, DiaChi) VALUES ('nhanvien5', 'Trần Viết Nhân', '1999-07-14', 'Giám đốc', '0941371807', 'vietnhan@rtep.com', 'Quảng Bình');

@@ -1,0 +1,63 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Nhân Viên</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+
+<div align="Center">
+    <h1>Nhân viên</h1>
+    <a href="/api/new">Tạo mới Nhân Viên</a>
+    <table class="table">
+        <thead>
+        <tr>
+            <th scope="col">Mã Nhân Viên</th>
+            <th scope="col">Tên Nhân Viên</th>
+            <th scope="col">Ngày sinh</th>
+            <th scope="col">Vị trí</th>
+            <th scope="col">SDT</th>
+            <th scope="col">Email</th>
+            <th scope="col">Địa chỉ</th>
+            <th scope="col">Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="nhanVien : ${nhanViens}">
+            <td th:text="${nhanVien.MaNhanVien}"></td>
+            <td th:text="${nhanVien.TenNhanVien}"></td>
+            <td th:text="${#dates.format(nhanVien.NgaySinh, 'yyyy-MM-dd')}"></td>
+            <td th:text="${nhanVien.ViTri}"></td>
+            <td th:text="${nhanVien.SoDienThoai}"></td>
+            <td th:text="${nhanVien.Email}"></td>
+            <td th:text="${nhanVien.DiaChi}"></td>
+            <td>
+                <a th:href="@{'/api/edit/' + ${nhanVien.MaNhanVien}}">Edit</a>
+                &nbsp;&nbsp;&nbsp;
+                <a th:href="@{'/api/delete/' + ${nhanVien.MaNhanVien}}">Delete</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</body>
+</html>

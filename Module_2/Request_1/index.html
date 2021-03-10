@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Request 1</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<form style="width: 50%; margin: auto; padding-top: 100px; padding-bottom: 10px;">
+    <div class="form-group">
+        <label>Tên</label>
+        <input type="text" class="form-control" id="name" name="name" placeholder="Enter name">
+    </div>
+    <div class="form-group">
+        <label>CMND</label>
+        <input type="text" class="form-control" id="cmnd" name="cmnd" placeholder="Enter CMND">
+    </div>
+    <div class="form-group">
+        <label>Ngày tháng năm sinh</label>
+        <input type="text" class="form-control" id="date" name="date" placeholder="Enter Ngay thang nam sinh">
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="email" class="form-control" id="email" name="email" placeholder="Enter mail">
+    </div>
+    <div class="form-group">
+        <label>Địa chỉ</label>
+        <input type="text" class="form-control" id="address" name="address" placeholder="Enter address">
+    </div>
+    <div class="form-group">
+        <label for="kindOfCustomer">Loại khách hàng</label>
+        <select class="form-control" id="kindOfCustomer">
+            <option>Diamond</option>
+            <option>Platinum</option>
+            <option>Gold</option>
+            <option>Silver</option>
+            <option>Member</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Giảm giá</label>
+        <input type="text" class="form-control" id="discount" name="discount" placeholder="Enter discount">
+    </div>
+    <div class="form-group">
+        <label>Số lượng</label>
+        <input type="text" class="form-control" id="number" name="number" placeholder="Enter number">
+    </div>
+    <div class="form-group">
+        <label>Số ngày thuê</label>
+        <input type="text" class="form-control" id="rentDate" name="rentDate" placeholder="Enter number of date">
+    </div>
+    <div class="form-group">
+        <label for="kindOfService">Loại dịch vụ</label>
+        <select class="form-control" id="kindOfService">
+            <option>Villa</option>
+            <option>House</option>
+            <option>Room</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="kindOfRoom">Loại phòng</label>
+        <select class="form-control" id="kindOfRoom">
+            <option>Vip</option>
+            <option>Business</option>
+            <option>Normal</option>
+        </select>
+    </div>
+
+    <button type="button" class="btn btn-primary" onclick="task2()">Submit</button>
+</form>
+
+<table id="table" class="table" style="display: none" style="margin: auto; width: 100%; padding: 0 0 100px 0">
+    <thead>
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">CMND</th>
+        <th scope="col">Ngày sinh</th>
+        <th scope="col">Email</th>
+        <th scope="col">Địa chỉ</th>
+        <th scope="col">Loại khách hàng</th>
+        <th scope="col">Giảm giá</th>
+        <th scope="col">Số lượng</th>
+        <th scope="col">Số ngày thuê</th>
+        <th scope="col">Loại dịch vụ</th>
+        <th scope="col">Loại phòng thuê</th>
+        <th scope="col">Tiền phải trả</th>
+    </tr>
+    </thead>
+    <tbody id="tbody">
+    <tr>
+        <th scope="row" id="row"></th>
+        <td id="name_tb"></td>
+        <td id="cmnd_tb"></td>
+        <td id="date_tb"></td>
+        <td id="email_tb"></td>
+        <td id="address_tb"></td>
+        <td id="customer_tb"></td>
+        <td id="discount_tb"></td>
+        <td id="number_tb"></td>
+        <td id="rentDate_tb"></td>
+        <td id="kindOfService_tb"></td>
+        <td id="kindOfRoom_tb"></td>
+        <td id="cost_tb"></td>
+    </tr>
+
+    </tbody>
+</table>
+
+<script>
+    id = 1;
+    var data = new object();
+    function task2(){
+        console.log(123);
+        var name = document.getElementById("name").value;
+        var cmnd = document.getElementById("cmnd").value;
+        var date = document.getElementById("date").value;
+        var email = document.getElementById("email").value;
+        var address = document.getElementById("address").value;
+        var customer = document.getElementById("kindOfCustomer").value;
+        var discount = document.getElementById("discount").value;
+        var number = document.getElementById("number").value;
+        var rentDate = document.getElementById("rentDate").value;
+        var kindOfService = document.getElementById("kindOfService").value;
+        var kindOfRoom = document.getElementById("kindOfRoom").value;
+
+        var reg_email = /^[A-Za-z0-9]+([_\.\-]?[A-Za-z0-9])*@[A-Za-z0-9]+([\.\-]?[A-Za-z0-9]+)*(\.[A-Za-z]+)+$/;
+
+        var reg_soduong=/^\d*$/;
+
+        if(reg_soduong.test(cmnd)==false)
+            alert("Số cmnd chỉ chứ số dương");
+        else if(cmnd.length!=8)
+            alert("Số cmnd phải đủ 8 chứ số");
+        else if (email.value == "")
+            alert("Không được bỏ trống email.");
+        else if (reg_email.test(email) == false)
+            alert("Email không hợp lệ");
+        else{
+            document.getElementById("table").style.display = "block";
+
+            document.getElementById("row").innerText = id;
+            document.getElementById("name_tb").innerText = name;
+            document.getElementById("cmnd_tb").innerText = cmnd;
+            document.getElementById("date_tb").innerText = date;
+            document.getElementById("email_tb").innerText = email;
+            document.getElementById("address_tb").innerText = address;
+            document.getElementById("customer_tb").innerText = customer;
+            document.getElementById("discount_tb").innerText = discount;
+            document.getElementById("number_tb").innerText = number;
+            document.getElementById("rentDate_tb").innerText = rentDate;
+            document.getElementById("kindOfService_tb").innerText = kindOfService;
+            document.getElementById("kindOfRoom_tb").innerText = kindOfRoom;
+            document.getElementById("cost_tb").innerText = getCost();
+        }
+
+        function getCost(){
+            return (kindOfService == "Villa" ? 500 : kindOfService == "House" ? 300 : 100) * rentDate * (1 - discount/100);
+        }
+        // id++;
+    }
+
+
+
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

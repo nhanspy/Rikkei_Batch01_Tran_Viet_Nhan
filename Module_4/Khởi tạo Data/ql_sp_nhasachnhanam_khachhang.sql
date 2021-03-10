@@ -1,0 +1,5 @@
+INSERT INTO ql_sp_nhasachnhanam.khachhang (MaKhachHang, TenKhachHang, Email, SoDienThoai, NgaySinh, MaLoai) VALUES ('khachhang1', 'Nguyen Van A', 'vana@rikkei.com', '098982347', '1999-01-01', 'loaikh1');
+INSERT INTO ql_sp_nhasachnhanam.khachhang (MaKhachHang, TenKhachHang, Email, SoDienThoai, NgaySinh, MaLoai) VALUES ('khachhang2', 'Nguyen Van B', 'vanb@rikkei.com', '093485744', '1998-01-01', 'loaikh1');
+INSERT INTO ql_sp_nhasachnhanam.khachhang (MaKhachHang, TenKhachHang, Email, SoDienThoai, NgaySinh, MaLoai) VALUES ('khachhang3', 'Nguyen Van C', 'vanc@rikkei.com', '096633377', '1998-02-02', 'loaikh2');
+INSERT INTO ql_sp_nhasachnhanam.khachhang (MaKhachHang, TenKhachHang, Email, SoDienThoai, NgaySinh, MaLoai) VALUES ('khachhang4', 'Nguyen Van D', 'vand@rikkei.com', '093777336', '1998-04-03', 'loaikh2');
+INSERT INTO ql_sp_nhasachnhanam.khachhang (MaKhachHang, TenKhachHang, Email, SoDienThoai, NgaySinh, MaLoai) VALUES ('khachhang5', 'Nguyen Van E', 'vane@rikkei.com', '093322721', '2001-04-03', 'loaikh3');
