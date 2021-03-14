@@ -1,14 +1,58 @@
 import {NhanVien} from './NhanVien';
 
 export class DSNhanVien{
-  nhanViens: NhanVien[] = [
-    {MaNhanVien: 'nhanvien1', TenNhanVien: 'Nguyễn Văn Hồng', NgaySinh: '2020-01-01', ViTri: 'Coder' , SDT: '098765432', Email: 'vanhong@rtep.com', DiaChi: 'Da Nang'},
-    {MaNhanVien: 'nhanvien1', TenNhanVien: 'Nguyễn Văn Hồng', NgaySinh: '2020-01-01', ViTri: 'Coder' , SDT: '098765432', Email: 'vanhong@rtep.com', DiaChi: 'Da Nang'},
-    {MaNhanVien: 'nhanvien1', TenNhanVien: 'Nguyễn Văn Hồng', NgaySinh: '2020-01-01', ViTri: 'Coder' , SDT: '098765432', Email: 'vanhong@rtep.com', DiaChi: 'Da Nang'},
-    {MaNhanVien: 'nhanvien1', TenNhanVien: 'Nguyễn Văn Hồng', NgaySinh: '2020-01-01', ViTri: 'Coder' , SDT: '098765432', Email: 'vanhong@rtep.com', DiaChi: 'Da Nang'},
-    {MaNhanVien: 'nhanvien1', TenNhanVien: 'Nguyễn Văn Hồng', NgaySinh: '2020-01-01', ViTri: 'Coder' , SDT: '098765432', Email: 'vanhong@rtep.com', DiaChi: 'Da Nang'},
-  ];
-
+  // @ts-ignore
+  nhanViens = Array<NhanVien>();
+  constructor() {
+    // tslint:disable-next-line:no-unused-expression
+    this.nhanViens = [
+      {
+        MaNhanVien: 'nhanvien1',
+        TenNhanVien: 'Nguyễn Văn Hồng',
+        NgaySinh: '2020-01-01',
+        ViTri: 'Coder',
+        SDT: '098765432',
+        Email: 'vanhong@rtep.com',
+        DiaChi: 'Da Nang'
+      },
+      {
+        MaNhanVien: 'nhanvien1',
+        TenNhanVien: 'Nguyễn Văn Hồng',
+        NgaySinh: '2020-01-01',
+        ViTri: 'Coder',
+        SDT: '098765432',
+        Email: 'vanhong@rtep.com',
+        DiaChi: 'Da Nang'
+      },
+      {
+        MaNhanVien: 'nhanvien1',
+        TenNhanVien: 'Nguyễn Văn Hồng',
+        NgaySinh: '2020-01-01',
+        ViTri: 'Coder',
+        SDT: '098765432',
+        Email: 'vanhong@rtep.com',
+        DiaChi: 'Da Nang'
+      },
+      {
+        MaNhanVien: 'nhanvien1',
+        TenNhanVien: 'Nguyễn Văn Hồng',
+        NgaySinh: '2020-01-01',
+        ViTri: 'Coder',
+        SDT: '098765432',
+        Email: 'vanhong@rtep.com',
+        DiaChi: 'Da Nang'
+      },
+      {
+        MaNhanVien: 'nhanvien1',
+        TenNhanVien: 'Nguyễn Văn Hồng',
+        NgaySinh: '2020-01-01',
+        ViTri: 'Coder',
+        SDT: '098765432',
+        Email: 'vanhong@rtep.com',
+        DiaChi: 'Da Nang'
+      },
+    ];
+  }
   // tslint:disable-next-line:typedef
   getNhanVien(){
     return this.nhanViens;

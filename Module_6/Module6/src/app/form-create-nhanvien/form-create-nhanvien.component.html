@@ -1,0 +1,43 @@
+<div align="center">
+  <h1>Thêm mới nhân viên</h1>
+  <form #createNhanVienForm = "ngForm"
+        (ngSubmit)="onSubmit(createNhanVienForm)"
+  >
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>Ma Nhan Vien:</td>
+        <td><input
+          [(ngModel)] = "nhanVien.MaNhanVien"
+          name="MaNhanVien"
+          type="text" id="MaNhanVien" /></td>
+      </tr>
+      <tr>
+        <td>Ten Nhan Vien:</td>
+        <td><input [(ngModel)] = "nhanVien.TenNhanVien" type="text" id="tenNhanVien" name="TenNhanVien"/></td>
+      </tr>
+      <tr>
+        <td>Ngay Sinh:</td>
+        <td><input [(ngModel)]="nhanVien.NgaySinh" type="text" id="ngaySinh" name="NgaySinh"/></td>
+      </tr>
+      <tr>
+        <td>Vi tri:</td>
+        <td><input [(ngModel)]="nhanVien.ViTri" type="text" id="viTri" name="ViTri"/></td>
+      </tr>
+      <tr>
+        <td>So dien thoai:</td>
+        <td><input [(ngModel)]="nhanVien.SDT" type="text" id="soDienThoai" name="SoDienThoai" /></td>
+      </tr>
+      <tr>
+        <td>Email:</td>
+        <td><input [(ngModel)]="nhanVien.Email" type="text" id="email" name="Email"/></td>
+      </tr>
+      <tr>
+        <td>Dia chi:</td>
+        <td><input [(ngModel)]="nhanVien.DiaChi" type="text" id="diaChi" name="DiaChi" /></td>
+      </tr>
+      <tr>
+        <td colspan="2"><button type="submit" class="btn btn-primary">Save</button> </td>
+      </tr>
+    </table>
+  </form>
+</div>

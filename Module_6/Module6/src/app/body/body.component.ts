@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {NhanVien} from '../NhanVien';
-import {DSNhanVien} from "../DSNhanVien";
+import {DSNhanVien} from '../DSNhanVien';
 
 @Component({
   selector: 'app-body',
@@ -8,8 +8,7 @@ import {DSNhanVien} from "../DSNhanVien";
   styleUrls: ['./body.component.css']
 })
 export class BodyComponent implements OnInit {
-  dsNhanVien = new DSNhanVien();
-  nhanViens = this.dsNhanVien.getNhanVien();
+  nhanViens = new DSNhanVien().nhanViens;
   constructor() { }
 
   ngOnInit(): void {

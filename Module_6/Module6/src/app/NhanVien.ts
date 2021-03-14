@@ -16,4 +16,22 @@ export class NhanVien{
     this.Email = 'abc@xyz.com';
     this.DiaChi = 'Da Nang';
   }
+
+  // tslint:disable-next-line:typedef ban-types
+  // initNhanVien(Object: object) {
+  //   // // @ts-ignore
+  //   // this.MaNhanVien = Object.MaNhanVien;
+  //   // // @ts-ignore
+  //   // this.TenNhanVien = Object.TenNhanVien;
+  //   // // @ts-ignore
+  //   // this.NgaySinh = Object.NgaySinh;
+  //   // // @ts-ignore
+  //   // this.ViTri = Object.ViTri;
+  //   // // @ts-ignore
+  //   // this.SDT = Object.SDT;
+  //   // // @ts-ignore
+  //   // this.Email = Object.Email;
+  //   // // @ts-ignore
+  //   // this.DiaChi = Object.DiaChi;
+  // }
 }
