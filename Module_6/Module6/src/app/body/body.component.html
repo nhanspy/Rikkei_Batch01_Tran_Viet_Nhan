@@ -1,0 +1,33 @@
+<div align="Center">
+  <h1>Nhân viên</h1>
+  <a href="/api/new">Tạo mới Nhân Viên</a>
+  <table class="table">
+    <thead>
+    <tr>
+      <th scope="col">Mã Nhân Viên</th>
+      <th scope="col">Tên Nhân Viên</th>
+      <th scope="col">Ngày sinh</th>
+      <th scope="col">Vị trí</th>
+      <th scope="col">SDT</th>
+      <th scope="col">Email</th>
+      <th scope="col">Địa chỉ</th>
+      <th scope="col">Action</th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let nhanVien of nhanViens">
+        <td>{{nhanVien.MaNhanVien}}</td>
+        <td>{{nhanVien.TenNhanVien}}</td>
+        <td>{{nhanVien.NgaySinh}}</td>
+        <td>{{nhanVien.ViTri}}</td>
+        <td>{{nhanVien.SDT}}</td>
+        <td>{{nhanVien.Email}}</td>
+        <td>{{nhanVien.DiaChi}}</td>
+        <td>
+          <button type="button" class="btn btn-primary">Edit</button>
+          <button type="button" class="btn btn-danger">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
