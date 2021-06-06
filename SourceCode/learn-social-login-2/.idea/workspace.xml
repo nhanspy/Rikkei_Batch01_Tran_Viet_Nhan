@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2092821e-7216-4359-a5d8-2f0a655f06e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Nhap/RAMS_FrontEnd1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/src/main/java/com/rtep/learnaddimagedatabase/LearnAddImageDatabaseApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/src/main/java/com/rtep/learnaddimagedatabase/entities/FileDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-add-image-database/src/test/java/com/rtep/learnaddimagedatabase/LearnAddImageDatabaseApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-qr-code/src/main/java/com/rtep/learnqrcode/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-qr-code/src/main/java/com/rtep/learnqrcode/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-qr-code/src/main/java/com/rtep/learnqrcode/helpers/ZXingHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-qr-code/src/main/java/com/rtep/learnqrcode/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-qr-code/src/main/java/com/rtep/learnqrcode/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-qr-code/src/main/java/com/rtep/learnqrcode/services/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-qr-code/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/src/main/java/com/rtep/learnsendmail/LearnSendMailApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn-send-mail/src/test/java/com/rtep/learnsendmail/LearnSendMailApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/app/index/index.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/app/index/index.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/app/index/index.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/app/index/index.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/css/material-kit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/css/material-kit.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/css/material-kit.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/demo/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/demo/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/demo/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/demo/vertical-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/demo/vertical-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/Creative-TimLOGO2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/arrow-left.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/arrow-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/arrow-right.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/arrow-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/bg9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/cards-test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/city-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/clint-mckoy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/creative-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/dg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/dg10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/dg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/dg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/dg6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/dg9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-about-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-blog-post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-blog-posts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-landing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-pricing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/ex-register.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/harvard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/microsoft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/stanford.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/example-pages/vodafone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/blog8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-blog4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-blog5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-blog6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-blog8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-product1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-product2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-product3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-product4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-profile1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-profile2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-profile4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-profile5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-profile6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-profile7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-project1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-project2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-project3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-project4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-project5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/card-project6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/clark-street-merc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/clem-onojegaw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/clem-onojeghuo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/clem-onojeghuou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/color1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/color2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/color3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/cynthia-del-rio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/darren-coleshill.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/dolce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/ecommerce-header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/ecommerce-tips2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/gucci.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/mariya-georgieva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/office1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/office2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/office3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/office4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/office5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/olu-eletu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/product1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/product2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/product3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/product4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/profile_city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/slim-emcee-ug-the-poet-truth_from_africa_photography.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/studio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/studio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/studio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/studio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/studio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/suit-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/suit-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/suit-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/suit-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/suit-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/suit-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/examples/tom-ford.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/camp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/card-profile1-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/card-profile2-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/card-profile4-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/card-profile5-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/card-profile6-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/christian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/kendall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/faces/marc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/features-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/AD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/AE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/AG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/AR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/AT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/AU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/BE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/BF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/BO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/BR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/CZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/DE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/DJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/DK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/DZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/EE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/ES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/FI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/FR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/GA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/GB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/GM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/GT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/HN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/HT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/HU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/ID.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/IE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/IL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/IN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/IQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/IR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/IT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/JM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/JO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/JP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/KG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/KN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/KP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/KW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/KZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/LA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/LB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/LC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/LS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/LU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/LV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/MG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/MK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/ML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/MM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/MT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/MX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/NA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/NE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/NG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/NI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/NL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/NO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/OM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/PA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/PK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/PL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/PT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/PY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/QA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/RU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/RW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/SA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/SE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/SG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/SL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/SO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/SV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/TD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/TJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/TL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/TR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/TZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/UA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/US.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/VE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/VN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/flags/YE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/image_placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/loading-bubbles.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/office2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/product1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/product2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/product3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/responsive-nav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/coloured-card-with-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/coloured-card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/ipad-comments.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/ipad-table.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/laptop-basics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/pin-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/presentation-ipad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/responsive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/share-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/social-row.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/section-components/table.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/b_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/b_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/b_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/b_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/f_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/f_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/f_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/f_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/f_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/h_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/h_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/h_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/h_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/iphone2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/m_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/m_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/p_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/p_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/p_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/p_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/p_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/pro_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/pro_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/pro_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/pro_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/t_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/t_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/t_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/team_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/team_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/team_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/team_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/sections/team_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/test1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/test2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/test3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/img/tim-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/core/bootstrap-material-design.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/core/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/core/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/material-kit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/material-kit.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/material-kit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/bootstrap-selectpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/bootstrap-tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/jasny-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/jquery.flexisel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/jquery.sharrre.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/js/plugins/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_checkboxes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_core-bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_example-pages-extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_example-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_fileupload.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_footers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_headers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_info-areas.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_misc-extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_misc.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_modal-extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_pills.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_radios.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_ripples.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_social-buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_switches.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_togglebutton.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_navbar-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-collapse.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-form-horizontal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-plain.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-pricing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-product.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-profile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-rotate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/cards/_card-testimonials.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_colored-shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_navbar-colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/mixins/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/plugins/_plugin-bootstrap-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/plugins/_plugin-datetime-picker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/plugins/_plugin-flexisel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/plugins/_plugin-nouislider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/plugins/_plugin-tagsinput.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_blogs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_contactus.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_footers-extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_headers-extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_pricing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_social-subscribe-lines.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/sections/_testimonials.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_body.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_bootstrap-material-design-base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_bootstrap-material-design.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_brand.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_colors-map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_snackbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_state.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/src/assets/scss/material-kit/variables/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run-template/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rBoozDOL4zJJGtVQIGDGqM6LDz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LearnSocialLogin2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn-social-login-2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rtep.learnsociallogin2.LearnSocialLogin2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2092821e-7216-4359-a5d8-2f0a655f06e3" name="Default Changelist" comment="" />
+      <created>1618459022793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618459022793</updated>
+      <workItem from="1618459035370" duration="5037000" />
+      <workItem from="1619803150394" duration="80000" />
+      <workItem from="1620001898831" duration="616000" />
+      <workItem from="1620095836505" duration="289000" />
+      <workItem from="1620118281065" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1618467564955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1618467564955" />
+    <state width="1323" height="451" key="GridCell.Tab.0.bottom" timestamp="1618480418687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618480418687" />
+    <state width="1323" height="451" key="GridCell.Tab.0.center" timestamp="1618480418686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618480418686" />
+    <state width="1323" height="451" key="GridCell.Tab.0.left" timestamp="1618480418686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618480418686" />
+    <state width="1323" height="451" key="GridCell.Tab.0.right" timestamp="1618480418686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618480418686" />
+    <state width="1323" height="451" key="GridCell.Tab.1.bottom" timestamp="1618480418688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618480418688" />
+    <state width="1323" height="451" key="GridCell.Tab.1.center" timestamp="1618480418687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1618480418687" />
+    <state width="1323" height="451" key="GridCell.Tab.1.left" timestamp="1618480418687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1618480418687" />
+    <state width="1323" height="451" key="GridCell.Tab.1.right" timestamp="1618480418687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="451" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1618480418687" />
+  </component>
+</project>

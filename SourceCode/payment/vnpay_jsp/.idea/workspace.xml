@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a202d861-c35a-43a7-8c49-16e49d03927e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Rams/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Rams/datve.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Rams/js/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Rams/xemlichsu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Rams/xemthongtinxe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/_helpers/auth.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/_services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/_services/token-storage.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/_services/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-admin/board-admin.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-admin/board-admin.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-admin/board-admin.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-moderator/board-moderator.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-moderator/board-moderator.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-moderator/board-moderator.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-moderator/board-moderator.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-user/board-user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-user/board-user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-user/board-user.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/board-user/board-user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/profile/profile.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/register/register.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/test/test.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/test/test.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/test/test.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/app/test/test.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/Angular10JwtAuth/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/controllers/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/models/ERole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/models/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/payload/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/payload/request/SignupRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/payload/response/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/payload/response/MessageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/security/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/security/jwt/AuthEntryPointJwt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/security/jwt/AuthTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/security/jwt/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/security/services/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/security/services/UserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learn-java-security-angular/learn-security/src/main/java/com/learnsecurity/security/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/student-management/src/main/java/com/rtep/studentmanagement/controllers/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/student-management/src/main/java/com/rtep/studentmanagement/entities/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/student-management/src/main/java/com/rtep/studentmanagement/repositories/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/student-management/src/main/java/com/rtep/studentmanagement/services/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/java/com/example/webapp/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/java/com/example/webapp/entities/GiaoDich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/java/com/example/webapp/entities/KhachHang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/java/com/example/webapp/repositories/GiaoDichRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/java/com/example/webapp/repositories/KhachHangRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/java/com/example/webapp/services/GiaoDichServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/java/com/example/webapp/services/KhachHangServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/resources/templates/themmoi_giaodich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test/webapp/src/main/resources/templates/view_giaodich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TestSnap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TestSnap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TestSnap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TestSnap/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TestSnap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/Angular10CRUDExamplee/src/app/models/Employee.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/Angular10CRUDExamplee/src/app/models/product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/Angular10CRUDExamplee/src/app/test/test.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/Angular10CRUDExamplee/src/app/test/test.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/Angular10CRUDExamplee/src/app/test/test.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/app/models/product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../angular-learn/angular-with-spring/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module_5/src/main/java/com/example/demo/controllers/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module_5/src/main/java/com/example/demo/controllers/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module_5/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module_5/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1qvp7kgUoHRgNFzt86otFfW6ttl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a202d861-c35a-43a7-8c49-16e49d03927e" name="Default Changelist" comment="" />
+      <created>1617969752965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617969752965</updated>
+      <workItem from="1617969755030" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617969906768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1617969906768" />
+  </component>
+</project>
